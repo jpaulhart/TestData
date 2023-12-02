@@ -1,0 +1,36 @@
+{
+    "dateCreated": "Monday, November 27, 2023 at 4:10:22 PM",
+    "audioBooks": [
+        {
+            "id": "CFB0CA93-1BFB-45F9-AE8A-D95029570359",
+            "narrator": "Tim Pigott-Smith",
+            "series3": "",
+            "author": "Graham Greene",
+            "seriesNo2": 0,
+            "summary": "Henry Pulling, a retired bank manager, meets his septuagenarian Aunt Augusta for the first time in over 50 years at his mother’s funeral....",
+            "series2": "",
+            "title": "Travels with My Aunt",
+            "series1": "",
+            "series": "",
+            "seriesNo1": 0,
+            "seriesNo3": 0,
+            "seriesNo": 0,
+            "no": 1
+        },
+        {
+            "author": "J.K. Rowling",
+            "seriesNo": 7,
+            "id": "D6C17825-E739-47B0-99D3-DA12A13EC50B",
+            "seriesNo2": 7,
+            "seriesNo3": 0,
+            "series2": "Wizarding World Collection",
+            "seriesNo1": 7,
+            "no": 2,
+            "series3": "",
+            "series1": "Harry Potter",
+            "series": "Series: Harry Potter , Book 7 , Wizarding World Collection , Book 7",
+            "narrator": "Jim Dale",
+            "summary": "As he climbs into the sidecar of Hagrid's motorbike and takes to the skies, leaving Privet Drive for the last time, Harry Potter knows that Lord Voldemort and the Death Eaters are not far behind....",
+            "title": "Harry Potter and the Deathly Hallows, Book 7"
+        }
+      }
